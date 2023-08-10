@@ -18,3 +18,6 @@ restaurant_recommender folder has the source code file which we used to show our
 --Methodolgy--
 
 The project involves extracting, collecting, and processing Swiggy restaurants' data and then utilizes data analysis techniques and machine learning modeling to predict the final output based on the preferences.
+
+
+
