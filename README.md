@@ -19,5 +19,7 @@ restaurant_recommender folder has the source code file which we used to show our
 
 The project involves extracting, collecting, and processing Swiggy restaurants' data and then utilizes data analysis techniques and machine learning modeling to predict the final output based on the preferences.
 
+# --DashBoard Creation--
+Here is the main dashboard which is dynamic in nature and the slicer added
 
 
