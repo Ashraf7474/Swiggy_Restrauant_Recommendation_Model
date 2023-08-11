@@ -33,7 +33,12 @@ Web Application (Streamlit): Integrate the prediction and recommendation models 
 
 Power BI Dashboard: Design an interactive Power BI dashboard that visualizes key performance indicators, sales trends, and user preferences, aiding decision-makers in strategic planning.
 
+# --Web Page--
+
+![Capture](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/7b8ca7a5-d6b3-4b7d-bb18-1d02a81e93de)
+
 # --DashBoard Creation--
 Here is the main dashboard which is dynamic in nature and the slicer added
 
+![Dashboard_image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/b56874be-738e-423e-b1c6-41cf572364eb)
 
