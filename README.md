@@ -40,6 +40,9 @@ Here is the main dashboard which is dynamic in nature and the slicer added
 
 ![Dashboard_image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/b56874be-738e-423e-b1c6-41cf572364eb)
 
+# Insights
+
+
 
 
 
