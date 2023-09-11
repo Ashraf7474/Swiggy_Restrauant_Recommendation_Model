@@ -40,10 +40,8 @@ The first CSV contains data on restaurants, including columns such as restaurant
 
 The second CSV contains information on dishes offered by the restaurants. It includes columns such as restaurant ID, restaurant name, dishes, cuisines, and the price of each dish. This table provides detailed information about the specific dishes offered by each restaurant.
 
-# Machine Learning Model
-
-
-
+# Preffered Price and Location
+![Capture47](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/fd499c9a-b04d-4e36-adf2-64b081e761b7)
 
 
 # Web Page
@@ -56,6 +54,16 @@ Here is the main dashboard which is dynamic in nature and the slicer added
 ![Dashboard_image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/b56874be-738e-423e-b1c6-41cf572364eb)
 
 # Insights
+
+Beverages, Desserts, Indian & Biryani cuisine has the greatest number of restaurants
+
+Clients can keep dishes related to this cuisine so that more consumers will get attracted to their restaurant
+
+Most popular restaurant by ratings: Malabar Bay
+
+Adugodi, Basavana Gudi, Basaveshwara Nagar - These areas have more number of restaurants, we can assume that more consumers are from these areas
+
+Indira Nagar, Koramangala, Basaveshwara Nagar has a greater number of expensive restaurants based on average price.
 
 
 
