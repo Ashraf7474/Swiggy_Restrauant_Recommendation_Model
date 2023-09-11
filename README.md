@@ -31,6 +31,21 @@ Web Application (Streamlit): Integrate the prediction and recommendation models 
 
 Power BI Dashboard: Design an interactive Power BI dashboard that visualizes key performance indicators, sales trends, and user preferences, aiding decision-makers in strategic planning.
 
+# Web Scraping Code
+![image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/53d0c8e0-7f2f-4508-b03b-4d70e011a53f)
+![image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/05c6bc9b-f49b-4758-a20d-37906766e14c)
+![image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/592f5ba3-8291-41a5-8cea-497e32508f08)
+
+The first CSV contains data on restaurants, including columns such as restaurant ID, restaurant name, restaurant link, price for two people, ratings, and the cuisines they serve. This table provides an overview of the restaurants available on the food delivery platform.
+
+The second CSV contains information on dishes offered by the restaurants. It includes columns such as restaurant ID, restaurant name, dishes, cuisines, and the price of each dish. This table provides detailed information about the specific dishes offered by each restaurant.
+
+# Machine Learning Model
+
+
+
+
+
 # Web Page
 
 ![Capture](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/7b8ca7a5-d6b3-4b7d-bb18-1d02a81e93de)
