@@ -69,6 +69,10 @@ Adugodi, Basavana Gudi, Basaveshwara Nagar - These areas have more number of res
 
 Indira Nagar, Koramangala, Basaveshwara Nagar has a greater number of expensive restaurants based on average price.
 
+# Challenges Faced
+
+During the analysis, I may have faced challenges including data quality issues, website structure complexities, managing large data volumes, legal and ethical considerations, and interpreting the data for meaningful insights. Ensuring the accuracy and completeness of the scraped data while handling dynamic website elements can be demanding. Additionally, complying with legal and ethical boundaries, optimizing code, and addressing changing website structures require careful attention. Analyzing and interpreting the data, as well as maintaining technical expertise, are crucial for overcoming these challenges and deriving valuable insights from the project.
+
 
 
 
