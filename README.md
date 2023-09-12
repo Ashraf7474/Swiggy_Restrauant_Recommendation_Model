@@ -40,7 +40,11 @@ The first CSV contains data on restaurants, including columns such as restaurant
 
 The second CSV contains information on dishes offered by the restaurants. It includes columns such as restaurant ID, restaurant name, dishes, cuisines, and the price of each dish. This table provides detailed information about the specific dishes offered by each restaurant.
 
-# Preffered Price and Location
+# Data Snapshot
+![Capture48](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/c2065031-6ced-4394-a626-670caec4c2c3)
+
+
+# Preffered Price and Location Code
 ![Capture47](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/fd499c9a-b04d-4e36-adf2-64b081e761b7)
 
 
