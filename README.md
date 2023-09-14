@@ -99,7 +99,7 @@ Indira Nagar, Koramangala, Basaveshwara Nagar has a greater number of expensive 
 
 # Challenges Faced
 
-During the analysis, I may have faced challenges including data quality issues, website structure complexities, managing large data volumes, legal and ethical considerations, and interpreting the data for meaningful insights. Ensuring the accuracy and completeness of the scraped data while handling dynamic website elements can be demanding. Additionally, complying with legal and ethical boundaries, optimizing code, and addressing changing website structures require careful attention. Analyzing and interpreting the data, as well as maintaining technical expertise, are crucial for overcoming these challenges and deriving valuable insights from the project.
+Developing the Swiggy restaurant recommender model posed several notable challenges. Firstly, data extraction from Swiggy's website required tackling dynamic web structures and ensuring the accuracy and timeliness of restaurant information. Data cleaning and integration across multiple Excel files demanded substantial effort to maintain data consistency and handle issues like missing values. Achieving model accuracy for personalized recommendations and accurate food demand predictions was a complex task, necessitating continuous refinement. Additionally, crafting a user-friendly web application using Streamlit involved navigating development intricacies. Lastly, ensuring data privacy compliance and securing user information during recommendation generation was a critical concern. These challenges were met with technical expertise, meticulous data handling, and a commitment to delivering a robust Swiggy restaurant recommendation system.
 
 
 
