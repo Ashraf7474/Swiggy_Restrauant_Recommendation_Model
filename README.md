@@ -60,8 +60,23 @@ The second CSV contains information on dishes offered by the restaurants. It inc
 # Preffered Price and Location Code
 ![Capture47](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/fd499c9a-b04d-4e36-adf2-64b081e761b7)
 
+# Machine Learning Model Code(Snapshot)
+![ml1](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/100ef6c4-3afa-421a-af17-6e53fa94ffeb)
+![ml2](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/825868de-535c-4b31-801e-b724c62632f1)
+![ml3](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/b6fff5cb-f998-44b8-a554-225d779bbf45)
+![ml4](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/b1d34521-93c4-43f1-8edf-c3a672a49eb6)
+![ml5](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/9e793c85-5e1d-4ef7-997f-c70009c9fd50)
 
-# Web Page
+
+# web page Code(snapshot)
+![w1](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/3b176a49-75bd-40b7-a657-5ff4d11b1164)
+![w2](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/1c6bffc2-a5f5-40ed-9b46-024038e972cd)
+![w3](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/46d6c739-6809-4b95-ad17-924b6133e942)
+
+
+
+
+# Web Page(Snapshot)
 
 ![Capture](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/7b8ca7a5-d6b3-4b7d-bb18-1d02a81e93de)
 
