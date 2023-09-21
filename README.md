@@ -18,7 +18,7 @@ As it becomes crucial for customers at a new location to find the appropriate re
 
 To develop a Swiggy restaurant recommender model which can predict the suitable restaurant, price for two, and dish name based on a budget price, cuisine, and location
 
-# --Data Description--
+# --Data Description-- 
 
 EXCEL FILES: This folder contains 3 Excel files where a. swiggy_table1 has the link of the restaurant, name of the restaurant, cuisine, price for 2 customers, and rating of the restaurants in .csv format. b. swiggy_table2 has the dish price, total rating numbers, dish name, dish category, and name of the restaurants. c. finalized_swiggy_dataset has the combined two tables mentioned above and the final dashboard based on this.
 
