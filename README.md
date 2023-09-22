@@ -8,7 +8,8 @@
 ![image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/6011d055-d1fd-409b-9c1f-1e71a08490fc)
 
 # User's Manual
-![Capture42](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/5b2e3e54-23d1-4eef-b94e-cd74c72b6737)
+![95](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/de73a330-206f-4794-bb05-5ef14e7423a6)
+
 
 # --Introduction--
 
